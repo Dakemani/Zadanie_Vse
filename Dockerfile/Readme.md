@@ -47,3 +47,4 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
 ![alt text](изображение-3.png)
+```
