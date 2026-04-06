@@ -1,4 +1,3 @@
-Вот готовый файл `README.md` для вашей работы:
 
 ```markdown
 # Работа с Python в Docker
