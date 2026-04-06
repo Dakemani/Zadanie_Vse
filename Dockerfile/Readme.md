@@ -1,5 +1,5 @@
 
-```markdown
+
 # Работа с Python в Docker
 
 ## Описание работы
